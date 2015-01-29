@@ -1,1 +1,1 @@
-MODULE_DESCRIPTION = "Home Grown plugins"
+MODULE_DESCRIPTION = "Home_Grown_plugins"
